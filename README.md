@@ -11,8 +11,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![Screenshot](/design/screenshot1.png){width=50%}
-![Screenshot](/design/screenshot2.png){width=50%}
+![Screenshot](/design/screenshot1.png)![Screenshot](/design/screenshot2.png)
+
 
 ### Links
 
